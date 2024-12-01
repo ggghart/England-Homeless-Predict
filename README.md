@@ -15,7 +15,7 @@ Proyek ini bertujuan untuk melakukan analisis dan prediksi tren tunawisma di Ing
 - Visualisasi Hasil: Presentasi hasil analisis dan prediksi dalam bentuk grafik yang mudah dipahami.
 
 # Data
-Dataset yang digunakan dalam proyek ini adalah data historis tunawisma di Inggris dari tahun 2009 hingga 2018. Data tersebut mencakup berbagai faktor, termasuk jumlah tunawisma, demografi, dan faktor sosial ekonomi lainnya. Dataset ini dapat ditemukan dalam file EnglandHomeless.csv di folder /data.
+Dataset yang digunakan dalam proyek ini adalah data historis tunawisma di Inggris dari tahun 2009 hingga 2018. Data tersebut mencakup berbagai faktor, termasuk jumlah tunawisma, demografi, dan faktor sosial ekonomi lainnya. Dataset ini dapat ditemukan dalam file Homelessness_in_England.csv.
 
 # Model yang Digunakan
 - Regresi Linier: Model dasar untuk memprediksi jumlah tunawisma berdasarkan faktor-faktor yang ada.
